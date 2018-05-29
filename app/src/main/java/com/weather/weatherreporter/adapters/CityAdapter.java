@@ -44,6 +44,7 @@ public class CityAdapter extends RecyclerView.Adapter<CityAdapter.CityViewHolder
         try {
 
             if(!thisList.get(position).getCity_name().equalsIgnoreCase("null")&&!TextUtils.isEmpty(thisList.get(position).getCity_name())){
+                holder.cv_city.setVisibility(View.VISIBLE);
                 holder.tv_city.setText(thisList.get(position).getCity_name());
             }else {
                 holder.cv_city.setVisibility(View.GONE);
