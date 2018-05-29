@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WeatherRepoter</string>
+    <string name="pls_wait">Please Wait</string>
+    <string name="loading">Loading</string>
+    <string name="error">Error</string>
+    <string name="try_again">Try Again</string>
+    <string name="weather">Weather</string>
+    <string name="currently">Currently</string>
+
+    <!--for textview values-->
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="tempmax">Max</string>
+    <string name="tempmin">Min</string>
+    <string name="temp">Now</string>
+    <string name="Summary">Summary</string>
+    <string name="strtime">Time</string>
+    <string name="humidity">Humidity</string>
+
+    <string name="city_list">Cities</string>
+    <string name="country_list">Countries</string>
+
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cir_img_ht">50dp</dimen>
+    <dimen name="cir_img_wt">60dp</dimen>
+
+
+    <dimen name="large">25dp</dimen>
+    <dimen name="heading">20dp</dimen>
+    <dimen name="sub_head">18dp</dimen>
+    <dimen name="content">16dp</dimen>
+    <dimen name="small">14dp</dimen>
+
+    <dimen name="margin_align">10dp</dimen>
+
+    <dimen name="padding_side">16dp</dimen>
+    <dimen name="padding_top">10dp</dimen>
+
+</resources>
